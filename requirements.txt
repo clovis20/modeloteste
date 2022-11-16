@@ -1,5 +1,4 @@
 investpy==1.0.8
-pandas==1.4.4
 pandas_datareader==0.10.0
 plotly==5.9.0
 streamlit==1.14.1
