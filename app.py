@@ -1,5 +1,5 @@
 import streamlit as st
-import pandas as pd
+#import pandas as pd
 from datetime import datetime, timedelta
 #import yfinance as yf
 import investpy as ip
@@ -103,5 +103,3 @@ else:
 
 
 st.write()
-
-web.database()
